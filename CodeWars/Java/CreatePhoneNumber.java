@@ -1,4 +1,4 @@
-package CreatePhoneNumber;
+
 public class CreatePhoneNumber{
     public static void main(String[] args){
         /*

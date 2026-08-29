@@ -1,4 +1,4 @@
-package DuplicateEncoder;
+
 
 import java.util.HashMap;
 
